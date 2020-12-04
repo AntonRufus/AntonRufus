@@ -32,8 +32,6 @@ I'm deepening my knowledge of React and technologies that make this process fast
 [![Anton's github stats](https://github-readme-stats.vercel.app/api?username=AntonRufus&theme=buefy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AntonRufus&repo=social-network&show_owner=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AntonRufus&repo=cv-react-app&show_owner=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AntonRufus&repo=cv-html&show_owner=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antonrufus&label=Profile%20views&color=0e75b6&style=flat" alt="antonrufus" /> </p>
 
