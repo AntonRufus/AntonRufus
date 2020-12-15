@@ -20,6 +20,9 @@ I'm deepening my knowledge of React and technologies that make this process fast
 <a href="https://antonrufus.github.io/cv-react-app/" target="blank"><i>Resume app</i></a> <b>[ React, CSS ]</b>
 </li>
 <li>
+<a href="https://antonrufus.github.io/colorful-clock-react-app/" target="blank"><i>Multicolored clock app</i></a> <b>[ React, CSS ]</b>
+</li>
+<li>
 <a href="https://antonrufus.github.io/cv-html/" target="blank"><i>Resume</i></a> <b>[ HTML, CSS ]</b>
 </li>
 </ul>
