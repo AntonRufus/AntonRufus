@@ -23,7 +23,7 @@ I'm deepening my knowledge of React and technologies that make this process fast
 <a href="https://antonrufus.github.io/multi-apps-project/#/home" target="blank"><i>Multiapps project</i></a> ................... <b>[ React, CSS ]</b>
 </li>
 <li>
-<a href="https://antonrufus.github.io/moving-boxes/" target="blank"><i>Canvas, moving boxes</i></a> ....................... <b>[ React, Canvas, CSS ]</b>
+<a href="https://antonrufus.github.io/moving-boxes/" target="blank"><i>Canvas, moving boxes</i></a> ......... <b>[ React, Canvas, CSS ]</b>
 </li>
 <li>
 <a href="https://antonrufus.github.io/cv-react-app/" target="blank"><i>Resume app</i></a> .............................. <b>[ React, CSS ]</b>
