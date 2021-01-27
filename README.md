@@ -47,7 +47,7 @@ I'm deepening my knowledge of React and technologies that make the development p
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/anton-zhyvotovskyi-10931291" target="blank"><img align="center" src="https://www.freeiconspng.com//uploads/linkedin-icon-19.png" alt="anton zhyvotovskyi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anton-zhyvotovskyi-10931291" target="blank"><img align="center" src="https://www.freeiconspng.com//uploads/linkedin-icon-19.png" alt="anton zhyvotovskyi" height="40" width="40" /></a>
 </p>
 
 [![Anton's github stats](https://github-readme-stats.vercel.app/api?username=AntonRufus&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
