@@ -14,7 +14,7 @@ I'm deepening my knowledge of React and technologies that make the development p
 <h3 align="left">My projects:</h3>
 <ul>
 <li>
-<a href="https://antonrufus.github.io/social-network/#/profile" target="blank"><i>Social Network</i></u></a> ........................ <b>[ React, Redux, CSS ]</b>
+<a href="https://antonrufus.github.io/social-network/#/profile" target="blank"><i>Social Network</i></u></a> ........................ <b>[ React, Redux, API, CSS ]</b>
 </li>
 <li>
 <a href="https://antonrufus.github.io/colorful-clock-react-app/" target="blank"><i>Multicolored clock app</i></a> ........ <b>[ React, CSS ]</b>
