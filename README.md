@@ -26,28 +26,28 @@ I'm deepening my knowledge of React and technologies that make the development p
 <h3 align="left">My projects:</h3>
 <ul>
 <li>
-<a href="https://antonrufus.github.io/social-network/#/profile" target="blank"><i>Social Network</i></u></a> ........................ <b>[ React, Redux, API, CSS ]</b>
+<a href="https://antonrufus.github.io/social-network/#/profile" target="_blank"><i>Social Network</i></u></a> ........................ <b>[ React, Redux, API, CSS ]</b>
 </li>
 <li>
-<a href="https://antonrufus.github.io/colorful-clock-react-app/" target="blank"><i>Multicolored clock app</i></a> ........ <b>[ React, CSS ]</b>
+<a href="https://antonrufus.github.io/colorful-clock-react-app/" target="_blank"><i>Multicolored clock app</i></a> ........ <b>[ React, CSS ]</b>
 </li>
 <li>
-<a href="https://antonrufus.github.io/multi-apps-project/#/home" target="blank"><i>Multiapps project</i></a> ................... <b>[ React, CSS, API ]</b>
+<a href="https://antonrufus.github.io/multi-apps-project/#/home" target="_blank"><i>Multiapps project</i></a> ................... <b>[ React, CSS, API ]</b>
 </li>
 <li>
-<a href="https://antonrufus.github.io/moving-boxes/" target="blank"><i>Canvas, moving boxes</i></a> ......... <b>[ React, Canvas, CSS ]</b>
+<a href="https://antonrufus.github.io/moving-boxes/" target="_blank"><i>Canvas, moving boxes</i></a> ......... <b>[ React, Canvas, CSS ]</b>
 </li>
 <li>
-<a href="https://antonrufus.github.io/cv-react-app/" target="blank"><i>Resume app</i></a> .............................. <b>[ React, CSS ]</b>
+<a href="https://antonrufus.github.io/cv-react-app/" target="_blank"><i>Resume app</i></a> .............................. <b>[ React, CSS ]</b>
 </li>
 <li>
-<a href="https://antonrufus.github.io/cv-html/" target="blank"><i>Resume</i></a> ....................................... <b>[ HTML, CSS ]</b>
+<a href="https://antonrufus.github.io/cv-html/" target="_blank"><i>Resume</i></a> ....................................... <b>[ HTML, CSS ]</b>
 </li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/anton-zhyvotovskyi-10931291" target="blank"><img align="center" src="https://www.freeiconspng.com//uploads/linkedin-icon-19.png" alt="anton zhyvotovskyi" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/anton-zhyvotovskyi-10931291" target="_blank"><img align="center" src="https://www.freeiconspng.com//uploads/linkedin-icon-19.png" alt="anton zhyvotovskyi" height="40" width="40" /></a>
 </p>
 
 [![Anton's github stats](https://github-readme-stats.vercel.app/api?username=AntonRufus&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
