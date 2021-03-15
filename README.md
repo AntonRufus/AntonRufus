@@ -35,7 +35,7 @@ I'm deepening my knowledge of React and technologies that make the development p
 <a href="https://antonrufus.github.io/multi-apps-project/#/home" target="_blank"><i>Multiapps project</i></a> ................... <b>[ React, CSS, API ]</b>
 </li>
 <li>
-<a href="https://antonrufus.github.io/Nature_Tours/" target="_blank"><i>Nature tours</i></a> ............................ <b>[ HTML, CSS, SCSS ]</b>
+<a href="https://antonrufus.github.io/nature_tours/" target="_blank"><i>Nature tours</i></a> ............................ <b>[ HTML, CSS, SCSS ]</b>
 </li>
 <li>
 <a href="https://antonrufus.github.io/moving-boxes/" target="_blank"><i>Canvas, moving boxes</i></a> ......... <b>[ React, Canvas, CSS ]</b>
