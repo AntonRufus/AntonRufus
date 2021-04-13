@@ -4,13 +4,9 @@
 
 ### I'm a Front-End React Developer.
 
-I'm deepening my knowledge of React and technologies that make the development process faster and more interesting.
-<h3 align="left">My portfolio</h3>
-<ul>
-<li>
-<a href="https://antonrufus.github.io/portfolio/" target="_blank"><i>Portfolio</i></u></a> ........................ <b>[ HTML, CSS, Flexbox, SASS, PostCSS, Javascript ]</b>
-</li>
-</ul>
+I'm a self-taught web developer and have about one year of experience in front-end. 
+<br/>
+The main technologies that I primarily use during the development of my projects are React, Redux, JavaScript, HTML and CSS (SASS).
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -30,6 +26,13 @@ I'm deepening my knowledge of React and technologies that make the development p
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonRufus&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<h3 align="left">My portfolio</h3>
+<ul>
+<li>
+<a href="https://antonrufus.github.io/portfolio/" target="_blank"><i>Portfolio</i></u></a> ..................................... <b>[ HTML, CSS, Flexbox, SASS, PostCSS, Javascript ]</b>
+</li>
+</ul>
+
 <h3 align="left">My projects:</h3>
 <ul>
 <li>
@@ -45,7 +48,7 @@ I'm deepening my knowledge of React and technologies that make the development p
 <a href="https://antonrufus.github.io/nature_tours/" target="_blank"><i>Nature tours</i></a> ............................ <b>[ HTML, CSS, SCSS ]</b>
 </li>
 <li>
-<a href="https://antonrufus.github.io/trillo/" target="_blank"><i>Trillo</i></a> ............................................ <b>[ HTML, CSS (flexbox), SCSS ]</b>
+<a href="https://antonrufus.github.io/trillo/" target="_blank"><i>Trillo</i></a> ............................................ <b>[ HTML, CSS, Flexbox, SCSS ]</b>
 </li>
 <li>
 <a href="https://antonrufus.github.io/moving-boxes/" target="_blank"><i>Canvas, moving boxes</i></a> ......... <b>[ React, Canvas, CSS ]</b>
