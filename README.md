@@ -5,6 +5,12 @@
 ### I'm a Front-End React Developer.
 
 I'm deepening my knowledge of React and technologies that make the development process faster and more interesting.
+<h3 align="left">My portfolio</h3>
+<ul>
+<li>
+<a href="https://antonrufus.github.io/portfolio/" target="_blank"><i>Portfolio</i></u></a> ........................ <b>[ HTML, CSS, Flexbox, SASS, PostCSS, Javascript ]</b>
+</li>
+</ul>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
