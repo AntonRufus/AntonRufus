@@ -26,7 +26,7 @@ The main technologies that I primarily use during the development of my projects
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonRufus&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="left">My portfolio</h3>
+<h3 align="left">My portfolio:</h3>
 <ul>
 <li>
 <a href="https://antonrufus.github.io/portfolio/" target="_blank"><i>Portfolio</i></u></a> ..................................... <b>[ HTML, CSS, Flexbox, SASS, PostCSS, Javascript ]</b>
