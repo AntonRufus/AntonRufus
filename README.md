@@ -61,7 +61,7 @@ The main technologies that I primarily use during the development of my projects
 </li>
 </ul>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">To contact me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/anton-zhyvotovskyi-10931291" target="_blank"><img align="center" src="https://www.freeiconspng.com//uploads/linkedin-icon-19.png" alt="anton zhyvotovskyi" height="40" width="40" /></a>
 </p>
