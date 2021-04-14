@@ -39,7 +39,7 @@ The main technologies that I primarily use during the development of my projects
 <a href="https://antonrufus.github.io/social-network/#/profile" target="_blank"><i>Social Network</i></u></a> ........................ <b>[ React, Redux, REST API, CSS-modules, Grid ]</b>
 </li>
 <li>
-<a href="https://antonrufus.github.io/colorful-clock-react-app/" target="_blank"><i>Multicolored clock app</i></a> ........ <b>[ React, CSS, CSS modules ]</b>
+<a href="https://antonrufus.github.io/colorful-clock-react-app/" target="_blank"><i>Multicolored clock app</i></a> ........ <b>[ React, CSS, CSS modules, JavaScript ]</b>
 </li>
 <li>
 <a href="https://antonrufus.github.io/multi-apps-project/#/home" target="_blank"><i>Multiapps project</i></a> ................... <b>[ React, JavaScript, REST API, Canvas, CSS modules, Grid ]</b>
