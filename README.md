@@ -36,25 +36,25 @@ The main technologies that I primarily use during the development of my projects
 <h3 align="left">My projects:</h3>
 <ul>
 <li>
-<a href="https://antonrufus.github.io/social-network/#/profile" target="_blank"><i>Social Network</i></u></a> ........................ <b>[ React, Redux, API, CSS ]</b>
+<a href="https://antonrufus.github.io/social-network/#/profile" target="_blank"><i>Social Network</i></u></a> ........................ <b>[ React, Redux, REST API, CSS-modules, Grid ]</b>
 </li>
 <li>
-<a href="https://antonrufus.github.io/colorful-clock-react-app/" target="_blank"><i>Multicolored clock app</i></a> ........ <b>[ React, CSS ]</b>
+<a href="https://antonrufus.github.io/colorful-clock-react-app/" target="_blank"><i>Multicolored clock app</i></a> ........ <b>[ React, CSS, CSS modules ]</b>
 </li>
 <li>
-<a href="https://antonrufus.github.io/multi-apps-project/#/home" target="_blank"><i>Multiapps project</i></a> ................... <b>[ React, CSS, API ]</b>
+<a href="https://antonrufus.github.io/multi-apps-project/#/home" target="_blank"><i>Multiapps project</i></a> ................... <b>[ React, JavaScript, REST API, Canvas, CSS modules, Grid ]</b>
 </li>
 <li>
-<a href="https://antonrufus.github.io/nature_tours/" target="_blank"><i>Nature tours</i></a> ............................ <b>[ HTML, CSS, SCSS ]</b>
+<a href="https://antonrufus.github.io/nature_tours/" target="_blank"><i>Nature tours</i></a> ............................ <b>[ HTML, CSS, SCSS, PostCSS, Grid, JavaScript ]</b>
 </li>
 <li>
-<a href="https://antonrufus.github.io/trillo/" target="_blank"><i>Trillo</i></a> ............................................ <b>[ HTML, CSS, Flexbox, SCSS ]</b>
+<a href="https://antonrufus.github.io/trillo/" target="_blank"><i>Trillo</i></a> ............................................ <b>[ HTML, CSS, Flexbox, SCSS, PostCSS ]</b>
 </li>
 <li>
 <a href="https://antonrufus.github.io/moving-boxes/" target="_blank"><i>Canvas, moving boxes</i></a> ......... <b>[ React, Canvas, CSS ]</b>
 </li>
 <li>
-<a href="https://antonrufus.github.io/cv-react-app/" target="_blank"><i>Resume app</i></a> .............................. <b>[ React, CSS ]</b>
+<a href="https://antonrufus.github.io/cv-react-app/" target="_blank"><i>Resume app</i></a> .............................. <b>[ React, CSS, CSS modules ]</b>
 </li>
 <li>
 <a href="https://antonrufus.github.io/cv-html/" target="_blank"><i>Resume</i></a> ....................................... <b>[ HTML, CSS ]</b>
