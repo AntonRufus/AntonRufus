@@ -2,7 +2,7 @@
 
 # My name is Anton, welcome to my page.
 
-### I'm a Front-End React Developer.
+### I'm a Front-End Web Developer (React).
 
 I'm a self-taught web developer and have about one year of experience in front-end. 
 <br/>
