@@ -51,6 +51,9 @@ The main technologies that I primarily use during the development of my projects
 <a href="https://antonrufus.github.io/trillo/" target="_blank"><i>Trillo</i></a> ............................................ <b>[ HTML, CSS, Flexbox, SCSS, PostCSS ]</b>
 </li>
 <li>
+<a href="https://antonrufus.github.io/nexter/" target="_blank"><i>Nexter</i></a> ........................................ <b>[ HTML, CSS, Grid, SCSS, PostCSS ]</b>
+</li>
+<li>
 <a href="https://antonrufus.github.io/moving-boxes/" target="_blank"><i>Canvas, moving boxes</i></a> ......... <b>[ React, Canvas, CSS ]</b>
 </li>
 <li>
