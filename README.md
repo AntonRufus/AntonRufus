@@ -48,7 +48,7 @@ The main technologies that I primarily use during the development of my projects
 <a href="https://antonrufus.github.io/nature_tours/" target="_blank"><i>Nature tours</i></a> ............................ <b>[ HTML, CSS, SCSS, PostCSS, Grid, JavaScript ]</b>
 </li>
 <li>
-<a href="https://antonrufus.github.io/javascript/" target="_blank"><i>JavaScript projects</i></a> ................. <b>[ HTML, CSS, JavaScript ]</b>
+<a href="https://antonrufus.github.io/javascript/" target="_blank"><i>JavaScript project</i></a> ................. <b>[ HTML, CSS, JavaScript ]</b>
 </li>
 <li>
 <a href="https://antonrufus.github.io/trillo/" target="_blank"><i>Trillo</i></a> ............................................ <b>[ HTML, CSS, Flexbox, SCSS, PostCSS ]</b>
