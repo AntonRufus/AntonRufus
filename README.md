@@ -16,10 +16,12 @@ The main technologies that I primarily use during the development of my projects
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://cdn0.iconfinder.com/data/icons/programming-vintage-circle/32/programming_js_icon-512.png" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/919/919851.png" alt="react" width="40" height="40"/> </a> 
   <a href="https://redux.js.org" target="_blank"> <img src="http://blog.js-republic.com/wp-content/uploads/2016/11/logo-redux.png" alt="redux" width="40" height="40"/> </a> 
-  <!--<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/919/919832.png" alt="typescript" width="40" height="40"/> </a> -->
+  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/919/919832.png" alt="typescript" width="40" height="40"/> </a>
   <a href="https://nodejs.org" target="_blank"> <img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/node-512.png" alt="nodejs" width="40" height="40"/> </a>
+  <a href="http://expressjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="expressjs" width="40" height="40"/> </a>
   <a href="https://www.npmjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-tile.svg" alt="npm" width="40" height="40"/> </a> 
   <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
+  <a href="https://www.postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://cdn1.iconfinder.com/data/icons/flurry-for-creative-suite/512/photoshop2.png" alt="photoshop" width="40" height="40"/> </a> 
 </p>
